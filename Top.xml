@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Top</Name>
+  <Guid>2446d0e5-5693-40df-b10e-0481bf23384d</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>2</Type>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>0</State>
+      </MouseEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>2</Type>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>1</State>
+      </MouseEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>4</Type>
+      <Text>
+        <Text>top</Text>
+      </Text>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>28</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>28</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+  </MacroEvents>
+</Macro>
